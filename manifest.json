@@ -1,6 +1,9 @@
 {
   "name": "Latino Providers",
-  "version": "2.0.0",
+  "id": "nuvio-providers-latino",
+  "version": "2.0.1",
+  "description": "Proveedores en español latino para Nuvio",
+  "main": "index.js",
   "scrapers": [
     {
       "id": "cinecalidad",
